@@ -39,7 +39,7 @@ echo "
 
 ---------------------
 
-Twitter.com/0x00fy
+Twitter.com/Zakarya_IT
 
 ---------------------
 
